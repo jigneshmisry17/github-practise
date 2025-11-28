@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>hello</h1>
+    <h2>This Is Admin Page</h2>
 </body>
 </html>
